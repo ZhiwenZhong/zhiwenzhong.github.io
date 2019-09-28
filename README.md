@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ZhiwenZhong/zwzhong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Personal Statment
+![image text](Test3/12.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a graduat student from USTC.
 
-### Markdown
+I am looking for a pH.D position in UK.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What I am doing now?
 
-```markdown
-Syntax highlighted code block
+The past two weeks’ work The truncation of mHCFC2 374-712 is obtained with crystal and has been displayed with Pymol. It is not a perfect data after processed with CCP4 and Phoenix and still needs more refinement and even a new raw data. Do some work about yeast two hybrid. Activating Y187 and Y2H strain, order medium and refresh plasmid. I did the co-IP test about mTRIM46 and mHCFC2 and get confused results, it seems the protein mTRIM46 and mHCFC2 are not well expressed. I checked the plasmids and re-extracted them.
 
-# Header 1
-## Header 2
-### Header 3
+The next two weeks’ work To refine the crystal structure of mHCFC2 374-712 and optimism they crystals. To express re-extracted plasmids in 293T cell.
 
-- Bulleted
-- List
+### Thoughts about today
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhiwenZhong/zwzhong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Keep going.
+[CV](https://github.com/ZhiwenZhong/ZhiwenZhong.github.io/raw/master/Word%20Report%202-ZZW.pdf)
+[CV](WordReport20190928.pdf)
