@@ -59,8 +59,3 @@ Leader, Hefei Botanical Garden Nameplate Activity                               
 Project Leader, Anhui Province Entrepreneurship Simulation Training                                             11/2015
 Minister, the publicity department of Baidu Baike Club, Anhui University                                        07/2014-07/2015
 
-
-
-Keep going.
-[CV](https://github.com/ZhiwenZhong/ZhiwenZhong.github.io/raw/master/Word%20Report%202-ZZW.pdf)
-[CV](WordReport20190928.pdf)
