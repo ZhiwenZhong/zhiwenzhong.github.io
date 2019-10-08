@@ -5,11 +5,11 @@
 <font color=#0099ff> **Graduate student.** </font>
 <font color=#1E90FF > 请在这里输入文本 </font>
 
-Laboratory of Neuronal Structure, School of Life Sciences, University of Science and Technology of China(USTC)
+**Laboratory of Neuronal Structure, School of Life Sciences, University of Science and Technology of China(USTC)
 443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China
-Tel: +86-13035064134
+Tel: +86-13035064134**
 
-Email: zwzhong@mail.ustc.edu.cn
+**Email: zwzhong@mail.ustc.edu.cn**
 
 [Resume/CV](https://github.com/ZhiwenZhong/ZhiwenZhong.github.io/raw/master/Word%20Report%202-ZZW.pdf)
 
@@ -24,7 +24,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ### **Reseach experiences** 
 
-**[07/2019] Crystal Structure of HCFC2 Fn3 Domain **
+**[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
 •	Innovatively identified the interaction between TRIM46 and HCFC2, and partial structural information about the protein HCFC2. Screened out of HCFC2 protein from the RNA library of mouse brain using yeast two-hybrid technology;
 
 •	Designed truncation according to biochemical properties and constructed into a 32M3C vector to express the truncation protein in Escherichia Coli. Further purified by FPLC after preliminary purification in Ni-column and obtained protein sample by high-speed centrifugation;
