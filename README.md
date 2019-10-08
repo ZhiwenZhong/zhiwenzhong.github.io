@@ -1,7 +1,7 @@
 
 # Zhiwen Zhong
 ![image text](Test3/12.jpg)
-*Graduate student.*
+**Graduate student.**
 *Laboratory of Neuronal Structure, School of Life Sciences, University of Science and Technology of China(USTC)*
 *443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China*
 *Tel: +86-13035064134*
