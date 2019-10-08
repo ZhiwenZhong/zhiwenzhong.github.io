@@ -2,11 +2,11 @@
 # Zhiwen Zhong
 ![image text](Test3/12.jpg)
 
-Graduate student. 
-Laboratory of Neuronal Structure, School of Life Sciences, University of Science and Technology of China(USTC)
-443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China
-Tel: +86-13035064134
-Email: zwzhong@mail.ustc.edu.cn
+*Graduate student.*
+*Laboratory of Neuronal Structure, School of Life Sciences, University of Science and Technology of China(USTC)*
+*443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China*
+*Tel: +86-13035064134*
+*Email: zwzhong@mail.ustc.edu.cn*
 
 [Resume/CV](https://github.com/ZhiwenZhong/ZhiwenZhong.github.io/raw/master/Word%20Report%202-ZZW.pdf)
 
