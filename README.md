@@ -24,7 +24,10 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ### **Reseach experiences** 
 
+
 **[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
+
+
 •	Innovatively identified the interaction between TRIM46 and HCFC2, and partial structural information about the protein HCFC2. Screened out of HCFC2 protein from the RNA library of mouse brain using yeast two-hybrid technology;
 
 •	Designed truncation according to biochemical properties and constructed into a 32M3C vector to express the truncation protein in Escherichia Coli. Further purified by FPLC after preliminary purification in Ni-column and obtained protein sample by high-speed centrifugation;
@@ -41,6 +44,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 •	Harvested the hippocampus cells on day 7. Observed in ZEISS LSM 710 confocal laser scanning microscope and found co-localization in AIS where ankyrin-G exists as a marker;
 
 •	Co-localization also existed in HeLa cells. HCFC2 form fibers in cytoplasm overlapped with TRIM46 while only expressed in nuclear when transfected alone.
+
 
 **[04/2018] Use Yeast Two-hybrid to Screen Protein that Can Bind with TRIM46**
 
@@ -59,6 +63,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 
 **[06/2017]  The Protective Effects of Selenium-Enriched Spirulina Platensis on Chronic Alcohol-Induced Liver Injury in Mice**
+
 
 •	Used Zarrouk medium to shake table culture under conditions of 20-22 ℃, pH 9, the light intensity of 3000 ~ 4000 Lx, and light intensity of 14 hours per day. Respectively added sodium selenite to make the final concentration of culture solution reach 450 mg/L on the 7th, 8th and 9th day of culture;
 
@@ -85,6 +90,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 [9/2017] Academic Scholarship, University of science and technology of China 
 
 [12/2015] Outstanding scholarship of Anhui University
+
 
 ### **Extracurricular activities** 
 
