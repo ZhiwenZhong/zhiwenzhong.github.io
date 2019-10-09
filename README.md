@@ -12,7 +12,7 @@
 
 **Tel: +86-13035064134**
 
-**Email: zwzhong@mail.ustc.edu.cn
+**Email: zwzhong@mail.ustc.edu.cn**
 
 [Resume/CV](https://github.com/ZhiwenZhong/ZhiwenZhong.github.io/raw/master/Word%20Report%202-ZZW.pdf)
 
