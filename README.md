@@ -3,14 +3,13 @@
 <div align=left>![]()</div>
 
 <font color=#0099ff> **Graduate student.** </font>
-<font color=#1E90FF > 请在这里输入文本 </font>
 
-**Laboratory of Neuronal Structure, 
-School of Life Sciences, University of Science and Technology of China(USTC)
-443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China
-Tel: +86-13035064134**
+**Laboratory of Neuronal Structure,** 
+**School of Life Sciences, University of Science and Technology of China(USTC)**
+**443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China**
+**Tel: +86-13035064134**
 
-**Email: zwzhong@mail.ustc.edu.cn**
+**Email: zwzhong@mail.ustc.edu.cn
 
 [Resume/CV](https://github.com/ZhiwenZhong/ZhiwenZhong.github.io/raw/master/Word%20Report%202-ZZW.pdf)
 
@@ -28,7 +27,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 **[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
 
-
 •	Innovatively identified the interaction between TRIM46 and HCFC2, and partial structural information about the protein HCFC2. Screened out of HCFC2 protein from the RNA library of mouse brain using yeast two-hybrid technology;
 
 •	Designed truncation according to biochemical properties and constructed into a 32M3C vector to express the truncation protein in Escherichia Coli. Further purified by FPLC after preliminary purification in Ni-column and obtained protein sample by high-speed centrifugation;
@@ -40,7 +38,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 **[01/2019] TRIM46 and HCFC2 Co-localized in the AIS with Ankyrin-G in Hippocampus**
 
-
 •	Carefully minimized contaminating cell types (i.e. astrocytes) from newborn C57 mice and cultured in Glibo CNB medium for four days;
 
 •	Co-transfected Flag-TRIM46 and GFP-HCFC2 plasmids to hippocampus cells using calcium phosphate transfection and cultured for another three days;
@@ -51,7 +48,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 
 **[04/2018] Use Yeast Two-hybrid to Screen Protein that Can Bind with TRIM46**
-
 
 •	Inserted TRIM46 gene into yeast vector pGBKT7 and grow in ampicillin plate to duplicate the plasmid;
 
@@ -67,7 +63,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 
 **[06/2017]  The Protective Effects of Selenium-Enriched Spirulina Platensis on Chronic Alcohol-Induced Liver Injury in Mice**
-
 
 •	Used Zarrouk medium to shake table culture under conditions of 20-22 ℃, pH 9, the light intensity of 3000 ~ 4000 Lx, and light intensity of 14 hours per day. Respectively added sodium selenite to make the final concentration of culture solution reach 450 mg/L on the 7th, 8th and 9th day of culture;
 
@@ -86,7 +81,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ### **Selected honors and awards**
 
-
 [9/2019] Academic Scholarship, University of science and technology of China
 
 [9/2018] Academic Scholarship, University of science and technology of China
@@ -97,7 +91,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 
 ### **Extracurricular activities** 
-
 
 [11/2015] **Leader**, Hefei Botanical Garden Nameplate Activity
 
