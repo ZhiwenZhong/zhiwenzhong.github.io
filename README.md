@@ -5,7 +5,8 @@
 <font color=#0099ff> **Graduate student.** </font>
 <font color=#1E90FF > 请在这里输入文本 </font>
 
-**Laboratory of Neuronal Structure, School of Life Sciences, University of Science and Technology of China(USTC)
+**Laboratory of Neuronal Structure, 
+School of Life Sciences, University of Science and Technology of China(USTC)
 443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China
 Tel: +86-13035064134**
 
@@ -36,7 +37,10 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 •	Conducted crystal diffraction for protein crystal. Preliminarily process the diffraction data by HKL3000 and carried out molecular replacement through CCP4. Obtained the high resolution 1.8 Å HCFC2 FN3 domain structure with Phenix refine after COOT manual modification.
 
+
 **[01/2019] TRIM46 and HCFC2 Co-localized in the AIS with Ankyrin-G in Hippocampus**
+
+
 •	Carefully minimized contaminating cell types (i.e. astrocytes) from newborn C57 mice and cultured in Glibo CNB medium for four days;
 
 •	Co-transfected Flag-TRIM46 and GFP-HCFC2 plasmids to hippocampus cells using calcium phosphate transfection and cultured for another three days;
