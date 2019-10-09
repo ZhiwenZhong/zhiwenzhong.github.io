@@ -4,9 +4,12 @@
 
 <font color=#0099ff> **Graduate student.** </font>
 
-**Laboratory of Neuronal Structure,** 
+**Laboratory of Neuronal Structure,**
+
 **School of Life Sciences, University of Science and Technology of China(USTC)**
+
 **443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China**
+
 **Tel: +86-13035064134**
 
 **Email: zwzhong@mail.ustc.edu.cn
