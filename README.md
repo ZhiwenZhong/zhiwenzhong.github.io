@@ -1,6 +1,6 @@
 **Zhiwen Zhong** 
 
-![](zzwustc.jpg)
+![Picture](zzwustc.jpg)
 
 **Graduate student**
 
@@ -14,7 +14,7 @@
 
 **Email: zwzhong@mail.ustc.edu.cn**
 
-[Resume/CV](cvZZW.pdf)
+![Resume/CV](cvZZW.pdf)
 
 ### **Biography** 
 I am currently a final year (2019-2020) graduate student in the Department of Biology, the University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received the B.S. degree from Department of Biology in Anhui University in 2017, under the supervision of Prof. Bei Huang.
