@@ -1,6 +1,6 @@
 **Zhiwen Zhong** 
 
-![](https://github.com/ZhiwenZhong/zhiwenzhong.github.io/blob/master/zzwustc.jpg)
+![](zzwustc.jpg)
 
 **Graduate student**
 
