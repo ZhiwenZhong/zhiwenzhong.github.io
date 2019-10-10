@@ -2,9 +2,9 @@
 
 ![Picture](zzwustc.jpg)
 
-**Graduate student**
+**Master Degree Candidate**
 
-**Laboratory of Neuronal Structure,**
+**Laboratory of Neural Structure Biology**
 
 **School of Life Sciences, University of Science and Technology of China(USTC)**
 
@@ -17,15 +17,18 @@
 [Resume/CV](cvZZW.pdf)
 
 ### **Biography** 
+------------
 I am currently a final year (2019-2020) graduate student in the Department of Biology, the University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received the B.S. degree from Department of Biology in Anhui University in 2017, under the supervision of Prof. Bei Huang.
 
 My research lies at the intersection of medical image analysis and artificial intelligence. I am dedicated to designing data-efficient learning methods for biomedical image analysis. I also have expertise in deep learning for 3D vision. Recently, I am working on new learning algorithms while minimizing human supervision.
 
 ### **Selected Publications** 
+------------
 
 Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched spirulina platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
 
 ### **Reseach experiences** 
+------------
 
 
 **[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
@@ -83,6 +86,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 
 ### **Selected honors and awards**
+------------
 
 [9/2019] Academic Scholarship, University of science and technology of China
 
@@ -93,7 +97,8 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 [12/2015] Outstanding scholarship of Anhui University
 
 
-### **Extracurricular activities** 
+### **Extracurricular activities**
+------------
 
 [11/2015] **Leader**, Hefei Botanical Garden Nameplate Activity
 
