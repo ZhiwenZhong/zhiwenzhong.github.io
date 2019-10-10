@@ -1,8 +1,9 @@
-### **Zhiwen Zhong**   
-[[Resume/CV]](cvZZW.pdf)
+ 
+[**[Resume/CV]**](cvZZW.pdf)
 
 ![Picture](zzwustc.jpg)
-
+### **Zhiwen Zhong**   
+------------
 **Master Degree Candidate**
 
 **Laboratory of Neural Structure Biology**
