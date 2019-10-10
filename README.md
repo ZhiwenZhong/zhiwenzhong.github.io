@@ -26,13 +26,11 @@ My research lies at the intersection of medical image analysis and artificial in
 
 ### **Selected Publications** 
 ------------
-
 Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched spirulina platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
+
 
 ### **Reseach Experiences** 
 ------------
-
-
 **[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
 
 •	Innovatively identified the interaction between TRIM46 and HCFC2, and partial structural information about the protein HCFC2. Screened out of HCFC2 protein from the RNA library of mouse brain using yeast two-hybrid technology;
@@ -89,7 +87,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ### **Selected Honors and Awards**
 ------------
-
 [9/2019] Academic Scholarship, University of science and technology of China
 
 [9/2018] Academic Scholarship, University of science and technology of China
@@ -101,7 +98,6 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ### **Extracurricular Activities**
 ------------
-
 [11/2015] **Leader**, Hefei Botanical Garden Nameplate Activity
 
 [11/2015] **Project Leader**, Anhui Province Entrepreneurship Simulation Training
