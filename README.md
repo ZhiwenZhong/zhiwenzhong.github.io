@@ -29,7 +29,7 @@ My research lies at the intersection of medical image analysis and artificial in
 
 Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched spirulina platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
 
-### **Reseach experiences** 
+### **Reseach Experiences** 
 ------------
 
 
@@ -87,7 +87,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 •	Conducted immunohistochemical experiment to explore the mechanism of repairing the chronic liver injury in mice and found that the repair of chronic alcoholic liver injury by Se-enriched spirulina was mainly conducted by apoptosis, supplemented by autophagy.
 
 
-### **Selected honors and awards**
+### **Selected Honors and Awards**
 ------------
 
 [9/2019] Academic Scholarship, University of science and technology of China
@@ -99,7 +99,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 [12/2015] Outstanding scholarship of Anhui University
 
 
-### **Extracurricular activities**
+### **Extracurricular Activities**
 ------------
 
 [11/2015] **Leader**, Hefei Botanical Garden Nameplate Activity
