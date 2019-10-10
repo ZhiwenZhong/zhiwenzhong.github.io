@@ -14,7 +14,7 @@
 
 **Email: zwzhong@mail.ustc.edu.cn**
 
-[Resume/CV](cvZZW.pdf)
+[[Resume/CV]](cvZZW.pdf)
 
 ### **Biography** 
 ------------
