@@ -2,7 +2,7 @@
 
 <div align=left>![]()</div>
 
-<font color=#0099ff> **Graduate student.** </font>
+**Graduate student**
 
 **Laboratory of Neuronal Structure,**
 
