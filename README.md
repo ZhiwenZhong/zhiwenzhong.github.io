@@ -1,5 +1,6 @@
  
 [**[Resume/CV]**](cvZZW.pdf)
+[**[Resume/CV]**](20191015PSZZW.pdf)
 
 ![Picture](zzwustc.jpg)
 ### **Zhiwen Zhong**   
@@ -22,7 +23,7 @@
 ------------
 I am currently a final year (2019-2020) graduate student in the Department of Biology, the University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received the B.S. degree from Department of Biology in Anhui University in 2017, under the supervision of Prof. Bei Huang.
 
-A student of biology, I developed a special interest in neural structure biology from relevant much research experience. I hope to explore neural polarity related proteins with AI technology. The traditional method was to knock down a particular protein in mice to see a difference. However, I feel that this method has room for improvement: the mice, with a protein knocked-down, may self-regulate themselves, thus possibly invalidating the research finding. This phenomenon is comparable to a spider net where the proteins are the crossed points. Once we disable one point, changes may happen via other routes, meaning that the difference may not be solely due to the one protein. To further explore this paradox, I hope to model this “net” making use of computer technology. By precisely control certain variables, we may draw a more solid conclusion of what a particular protein does. 
+I hope to explore neural polarity related proteins, especially those in AIS. The traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “net”, using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what a particular protein does. 
 
 ### **Selected Publications** 
 ------------
