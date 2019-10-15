@@ -1,6 +1,7 @@
  
-[**[Resume/CV]**](cvZZW.pdf)
-[**[Resume/CV]**](20191015PSZZW.pdf)
+[**[CV]**](cvZZW.pdf)
+
+[**[PS]**](20191015PSZZW.pdf)
 
 ![Picture](zzwustc.jpg)
 ### **Zhiwen Zhong**   
