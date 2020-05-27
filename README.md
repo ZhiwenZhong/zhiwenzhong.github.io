@@ -1,8 +1,6 @@
  
 [**[CV]**](ZZWCV20200526.pdf)
 
-[**[PS]**](20191015PSZZW.pdf)
-
 ![Picture](zzwustc.jpg)
 ### **Zhiwen Zhong**   
 ------------
