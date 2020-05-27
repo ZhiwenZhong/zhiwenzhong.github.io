@@ -8,11 +8,9 @@
 ------------
 **Master Degree Candidate**
 
-**Laboratory of Neural Structure Biology**
-
-**School of Life Sciences, University of Science and Technology of China(USTC)**
-
-**443 Huangshan Road, Hefei, Anhui Province 230027, P.R.China**
+**Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamicsy**
+**Hefei National Laboratory for Physical Sciences at the Microscale, School of Life Sciences**
+**Division of Life Sciences and Medicine, University of Science and Technology of China, 230027 Hefei, P.R. China**
 
 **Tel: +86-13035064134**
 
@@ -24,7 +22,7 @@
 ------------
 I am currently a final year (2019-2020) graduate student in the Department of Biology, the University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received the B.S. degree from Department of Biology in Anhui University in 2017, under the supervision of Prof. Bei Huang.
 
-I hope to explore neural polarity related proteins, especially those in AIS. The traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “net”, using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what a particular protein does. 
+I hope to explore biology questions with computatioal skills, especially importent proteins that have function in human diseases. The traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “net”, using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what a particular protein does. 
 
 ### **Selected Publications** 
 ------------
