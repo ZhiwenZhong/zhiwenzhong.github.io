@@ -34,13 +34,13 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ### **Coursera Certificates**
 ------------
-**[09/01/2019] Python Data Structures**
+[09/01/2019] Python Data Structures
 
-**[07/15/2019] Applied Machine Learning in Python**
+[07/15/2019] Applied Machine Learning in Python
 
-**[07/09/2019] Structuring Machine Learning Projects**
+[07/09/2019] Structuring Machine Learning Projects
 
-**[06/10/2019] Neural Networks and Deep Learning**
+[06/10/2019] Neural Networks and Deep Learning
 
 
 ### **Reseach Experiences** 
