@@ -32,6 +32,16 @@ I hope to explore biology questions with computatioal skills, especially importe
 ------------
 Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched spirulina platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
 
+### **Coursera Certificates**
+------------
+**[09/01/2019] Python Data Structures**
+
+**[07/15/2019] Applied Machine Learning in Python**
+
+**[07/09/2019] Structuring Machine Learning Projects**
+
+**[06/10/2019] Neural Networks and Deep Learning**
+
 
 ### **Reseach Experiences** 
 ------------
