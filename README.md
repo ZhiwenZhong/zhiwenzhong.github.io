@@ -6,7 +6,7 @@
 ------------
 ***Master Degree Candidate***
 
-Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamicsy
+Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamics
 
 Hefei National Laboratory for Physical Sciences at the Microscale
 
@@ -20,15 +20,17 @@ University of Science and Technology of China, 230027 Hefei, P.R. China
 
 
 
-### **Biography** 
+### **Biography and Interests** 
 ------------
-I am currently a final year (2019-2020) graduate student in the Department of Biology, the University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received the B.S. degree from Department of Biology in Anhui University in 2017, under the supervision of Prof. Bei Huang.
+I am currently a final year (2019-2020) graduate student at the School of Life Sciences, University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received a B.S. degree in Biotechnology from Anhui University in 2017, under the supervision of Prof. Bei Huang.
+I hope to use structural biology and bioinformatics to answer questions like neurodegenerative disorder or other genetic diseases, with the help of deep learning we are able to simulate protein-protein interactions and mutate binding sites to see how cells are affected.
 
-I hope to explore biology questions with computatioal skills, especially importent proteins that have function in human diseases. The traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “net”, using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what a particular protein does. 
+An immature idea of mine: the traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “Protein-Net” using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what roles of a particular protein plays.
+ 
 
 ### **Selected Publications** 
 ------------
-Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched spirulina platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
+Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
 
 ### **Coursera Certificates**
 ------------
@@ -62,7 +64,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 •	Harvested the hippocampus cells on day 7. Observed in ZEISS LSM 710 confocal laser scanning microscope and found co-localization in AIS where ankyrin-G exists as a marker;
 
-•	Co-localization also existed in HeLa cells. HCFC2 form fibers in cytoplasm overlapped with TRIM46 while only expressed in nuclear when transfected alone.
+•	Co-localization also existed in HeLa cells. HCFC2 form fibres in cytoplasm overlapped with TRIM46 while only expressed in nuclear when transfected alone.
 
 
 **[04/2018] Use Yeast Two-hybrid to Screen Protein that Can Bind with TRIM46**
@@ -75,7 +77,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 •	Isolated plasmid by using Clontech Easy Yeast Plasmid Isolation Kit. Obtained the plasmid of protein X excluding TRIM46 and detected 24 positive results from subsequent gene sequencing;
 
-•	Verified there interaction by co-transferring pGBKT7-TRIM46 and pGADT7-HCFC2 to Y187 strain and found it can activate reporter genes;
+•	Verified their interaction by co-transferring pGBKT7-TRIM46 and pGADT7-HCFC2 to Y187 strain and found it can activate reporter genes;
 
 •	Detected that TRIM46 overlapped with HCFC2 via immunofluorescence co-localization in HeLa cells.
 
@@ -86,7 +88,7 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 •	Raised KM mice in an environment of 25±2℃, free diet, 12 h cycle of light every day, and randomly divided into 2 groups (the control group and the alcohol group) with 60 animals in each group after one week of adaptive feeding;
 
-•	Gavaged the control group with distilled water and the alcohol group with alcohol for 6 weeks to establish a model of chronic alcoholic liver injury. Detected the content of alanine amino-transferase (ALT), aspartate aminotransferase (AST), total cholesterol (TC), Triglyceride (TG) of two groups; 
+•	Gavaged the control group with distilled water and the alcohol group with alcohol for 6 weeks to establish a model of chronic alcoholic liver injury. Detected the content of alanine aminotransferase (ALT), aspartate aminotransferase (AST), total cholesterol (TC), Triglyceride (TG) of two groups; 
 
 •	Divided 60 mice from the alcohol group into six groups, each containing 10 mice as follows: the model group; the control group; and the low-, middle-, high-dose Se-SP and SP groups. Treated mice in the four test groups with daily doses of 100, 200, and 400 mg per kg bodyweight of Se-SP and 200 mg per kg bodyweight of SP respectively, for 42 consecutive days;
 
