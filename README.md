@@ -6,11 +6,15 @@
 ![Picture](zzwustc.jpg)
 ### **Zhiwen Zhong**   
 ------------
-**Master Degree Candidate**
+***Master Degree Candidate***
 
 **Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamicsy**
-**Hefei National Laboratory for Physical Sciences at the Microscale, School of Life Sciences**
-**Division of Life Sciences and Medicine, University of Science and Technology of China, 230027 Hefei, P.R. China**
+
+**Hefei National Laboratory for Physical Sciences at the Microscale**
+
+**School of Life Sciences, Division of Life Sciences and Medicine**
+
+**University of Science and Technology of China, 230027 Hefei, P.R. China**
 
 **Tel: +86-13035064134**
 
