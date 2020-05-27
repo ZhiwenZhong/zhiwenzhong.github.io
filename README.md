@@ -24,10 +24,9 @@ University of Science and Technology of China, 230027 Hefei, P.R. China
 ------------
 I am currently a final year (2019-2020) graduate student at the School of Life Sciences, University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received a B.S. degree in Biotechnology from Anhui University in 2017, under the supervision of Prof. Bei Huang.
 
-### **An immature idea of mine** 
-I hope to use structural biology and bioinformatics to answer questions like neurodegenerative disorder or other genetic diseases, with the help of deep learning we are able to simulate protein-protein interactions and mutate binding sites to see how cells are affected.
+**An Immature Idea of Mine:** 
 
-The traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “Protein-Net” using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what roles of a particular protein plays.
+I hope to use structural biology and bioinformatics to answer questions like neurodegenerative disorder or other genetic diseases, with the help of deep learning we are able to simulate protein-protein interactions and mutate binding sites to see how cells are affected. The traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “Protein-Net” using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what roles of a particular protein plays.
  
 
 ### **Selected Publications** 
