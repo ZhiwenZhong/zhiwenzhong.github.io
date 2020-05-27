@@ -1,5 +1,5 @@
  
-[**[CV]**](ZZWCV20200526.pdf)
+[**[Curriculum Vitae]**](ZZWCV20200526.pdf)
 
 ![Picture](zzwustc.jpg)
 ### **Zhiwen Zhong**   
