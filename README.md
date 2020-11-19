@@ -33,6 +33,8 @@ I hope to use structural biology and bioinformatics to answer questions like neu
 
 ### **Selected Publications** 
 ------------
+Jin Ye, **Zhiwen Zhong** (Co-first author), Yanshen Zhang and Chao Wang. Crystal structure of MAGI2-PDZ4/ARMS-PBM complex reveals a canonical PDZ/PBM interaction. ***Journal of   Structural Biology*** (Under reviewing)
+
 Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
 
 ### **Coursera Certificates**
@@ -48,6 +50,17 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ### **Reseach Experiences** 
 ------------
+**[10/2020] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex**
+
+•	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2 (MAGI2) is a scaffold protein that plays a critical role in synaptic junction by assembling neurotransmitter receptors and cell adhesion proteins
+
+•	We characterized the binding between MAGI2 and ARMS (ankyrin repeat-rich membrane spanning) through multiple biochemical assays and solved the crystal structure of MAGI2/ARMS complex.
+
+•	Our structure shows the binding interface lies between the canonical αB/βB groove from MAGI2-PDZ4 and the C-terminal PBM from ARMS
+
+•	Structure analysis combining with mutagenesis studies revealed the molecular basis of MAGI2-PDZ4/ARMS-PBM complex formation, which remained highly similar to canonical PDZ/PBM interaction
+
+
 **[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
 
 •	Innovatively identified the interaction between TRIM46 and HCFC2, and partial structural information about the protein HCFC2. Screened out of HCFC2 protein from the RNA library of mouse brain using yeast two-hybrid technology;
@@ -123,4 +136,4 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ------------
 
-*Last updated by Zhiwen Zhong on **Aug 01, 2020***
+*Last updated by Zhiwen Zhong on **Nov 19, 2020***
