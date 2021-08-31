@@ -6,16 +6,6 @@ School of Life Sciences, Division of Life Sciences and Medicine
 </div> 
 Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamics
 
-
-
-
-</table>
-
-<pre>
-Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamics
-</pre>
-
-
 ### **Zhiwen Zhong**   
 ------------
 ***Master Degree Candidate***
