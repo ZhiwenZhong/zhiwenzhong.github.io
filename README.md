@@ -1,8 +1,7 @@
  
 ***Click for:*** 
 [**[CV]**](CV-ZZW20201119.pdf)
-[**[RL-Chao Wang]**](RL-Chao Wang-20200801.pdf) 
-[**[RL-Bei Huang]**](RL-Bei Huang.pdf)
+
 
 
 ![Picture](zzwustc.jpg)
