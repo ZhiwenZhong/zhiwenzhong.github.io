@@ -1,8 +1,4 @@
-<div align=center><img width="170" height="180" alt="zhongzhiwen" src="newpicture.png"/></div>
-
-
-| <img width="170" height="180" alt="zhongzhiwen" src="WechatIMG290.jpeg"/>   | <img width="80" height="40" alt="zhongzhiwen" src="Zhiwenname.jpg"/>  PhD candidate @ [Chemistry](https://www.kcl.ac.uk/chemistry) Department of Chemistry [King's College London](https://www.kcl.ac.uk/),  Email: zwzhong@mail.ustc.edu.cn | <img width="180" height="140" alt="zhongzhiwen" src="KCL.svg"/>|
-| ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+<div align=center><img width="1000" height="320" alt="zhongzhiwen" src="test.jpg"/></div>
 
 ### **Biography** 
 ------------
