@@ -11,18 +11,7 @@ body {
 	padding-bottom: 8px;
 	margin: 0;
 }
-<!--Header content-->
-   <h1>Zhiwen Zhong @ KCL<h1>
-*/
-
 /* Header Title */
-header {
-  padding: 40px;
-  text-align: center;
-  background: #f9f7f7;
-  margin:30px;
-  font-size:20px;
-}
 html {
   background-color: #eeeeee; 
 }
