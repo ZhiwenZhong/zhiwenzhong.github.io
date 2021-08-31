@@ -4,7 +4,8 @@
 
 
 
-![Picture](zzwustc.jpg)
+<img width="150" height="150" src="zzwustc.jpg"/>
+
 ### **Zhiwen Zhong**   
 ------------
 ***Master Degree Candidate***
