@@ -1,4 +1,4 @@
- | ![Image](zhongzhiwen.jpg) | ![Chinese name](name.png) Zhiwen Zhong  PhD candidate @ [Chemistry](https://www.kcl.ac.uk/chemistry) Department of Chemistry [King's College London](https://www.kcl.ac.uk/),  Email: zwzhong@mail.ustc.edu.cn | [![Image](KCL.svg)](https://www.kcl.ac.uk/) |
+ |<img width="250" height="300" alt="zhongzhiwen" src="zhongzhiwen.jpg"/>   | <img width="80" height="40" alt="zhongzhiwen" src="zhiwenname.jpg"/> Zhiwen Zhong  PhD candidate @ [Chemistry](https://www.kcl.ac.uk/chemistry) Department of Chemistry [King's College London](https://www.kcl.ac.uk/),  Email: zwzhong@mail.ustc.edu.cn | [![Image](KCL.svg)](https://www.kcl.ac.uk/) |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                             |                                                              |                                                              |
 
