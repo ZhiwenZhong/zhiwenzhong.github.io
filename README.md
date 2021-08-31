@@ -1,3 +1,69 @@
+ | ![Image](zhongzhiwn.jpg) | ![Chinese name](name.png) Zhiwen Zhong  PhD candidate @ [Chemistry](https://www.kcl.ac.uk/chemistry) Department of Chemistry [King's College London](https://www.kcl.ac.uk/),  Email: zwzhong@mail.ustc.edu.cn | [![Image](KCL.svg)](https://www.kcl.ac.uk/) |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                             |                                                              |                                                              |
+
+Site Directory: [[Biography\]](https://ogshun.github.io/#sec: Biography) [[Research Interest\]](https://ogshun.github.io/#sec: Research Interest) [[Publications\]](https://ogshun.github.io/#sec: Publications) [[Academia Services\]](https://ogshun.github.io/#sec: Academia Services)[[Teaching Assistant\]](https://ogshun.github.io/#sec: Teaching Assistant) [[Awards & Honors\]](https://ogshun.github.io/#sec: Selected Honors) [[Personal Interests\]](https://ogshun.github.io/#sec: Personal Interests)
+
+
+
+# Biography
+
+I am a PhD candidate at School of Computer Science and Engineering, the University of New South Wales, supervised by [Prof. Lina Yao](https://www.linayao.com/) and [Prof. Boualem Benatallah](https://sites.google.com/site/boualembenatallahwebsite/). Before that, I received my M.S. and B.S. degree from the Department of Computer Science and Engineering, Nanjing University, in 2019 and 2016, respectively.
+You may see my latest CV [here](https://ogshun.github.io/files/cv_yunli.pdf) (2021-04 edition).
+[[go top\]](https://ogshun.github.io/#title)
+
+
+
+# Research Interest
+
+My research interests mainly focus on deep learning and big data analytics, especially on the applications in human healthcare. My current topics are summarized as follows:
+
+- Zero-shot learning
+- Genome analytics
+- Medical Imaging
+
+
+[[go top\]](https://ogshun.github.io/#title)
+
+
+
+
+
+# Publications (* indicates co-first auther)
+
+- Zhe Liu, **Yun Li**, Lina Yao, Xianzhi Wang, and Feiping Nie. " "Agglomerative Neural Networks for Multi-view Clustering "[J], *TNNLS*, 2021.
+- Zhe Liu, **Yun Li\***, Lina Yao, Xianzhi Wang, and Guodong Long. " "Task Aligned Generative Meta-learning for Zero-shot Learning "[C], *AAAI*, 2021.
+- **Yun Li**, Zhe Liu, Lina Yao, Zihuai He. " Non-local Self-attentive Autoencoder for Genetic Functionality Prediction "[C], *CIKM*, 2020.
+- **Yun Li**, Yixiang Fang, Reynold Cheng, Wenjie Zhang. " Spatial pattern matching: A new direction for finding spatial objects "[J], SIGSPATIAL Special, 2019, 11(1): 3-12. （invited paper）
+- Yixiang Fang, **Yun Li**, Reynold Cheng, Nikos Mamoulis, Gao Cong. " Evaluating Pattern Matching Queries for Spatial Databases "[J], The VLDB Journal, 2019, 28(5): 649-673
+- Yixiang Fang, Reynold Cheng, Gao Cong, Nikos Mamoulis, **Yun Li**. " On Spatial Pattern Matching "[C], *ICDE*, 2018. [[online demo\]](http://cexplorer.cs.hku.hk:8080/SpaceKey/index.jsp)
+- Hengyang Lu, **Yun Li**, Chi Tang, Chongjun Wang and Junyuan Xie. " Constructing Pseudo Documents with Semantic Similarity for Short Text Topic Discovery "[C], *ICONIP*, 2018.
+- Hengyang Lu, Gaojian Ge, **Yun Li**, Chongjun Wang and Junyuan Xie. " Exploiting Global Semantic Similarity Biterms for Short-text Topic Discovery "[C], *ICTAI*, 2018.
+- Hengyang Lu, Ning Kang, **Yun Li**, Qianyi Zhan, Junyuan Xie, Chongjun Wang. " Utilizing Recurrent Neural Network for Topic Discovery in Short Text Scenarios "[J], *Intelligent Data Analysis\*, 2019, 23(2): 259-277.
+  **
+- **Yankai Chen, Yixiang Fang, Reynold Cheng, and **Yun Li**, Xiaojun Chen, Jie Zhang. " Exploring Communities in Large Profiled Graphs "[J], \*TKDE\*, 2018.
+  **
+
+**[[go top\]](https://ogshun.github.io/#title)
+
+Academia ServicesExternal reviewer, ACM MM 2021.
+Reviewer, TOSN.
+External reviewer, AAAI 2021.
+External reviewer, CIKM 2020.
+External reviewer, KDD 2020.
+External reviewer, TKDE 2019.
+[[go top\]](https://ogshun.github.io/#title)
+
+Teaching Assistant\*Introduction to Java Programming\*, for undergraduate student. fall, 2016.
+[[go top\]](https://ogshun.github.io/#title)
+
+Awards & HonorsCIKM student travel grant. 2020Computer Science funded Top-ups Scholarships. 2020University International Postgraduate Award (UIPA). from 2019 to 2023First Prize of Academic Scholarships. 2017, 2016First Prize of Academic Scholarships. 2017, 2016Second Prize of People's Scholarship Award. 2015Outstanding Student, CST Dept. 2015, 2014Excellent League Member Award, NJU. 2014... ...[[go top\]](https://ogshun.github.io/#title)
+
+Personal Interestsreadingboard role-playing games and card games[[go top\]](https://ogshun.github.io/#title)
+**
+ 
+ 
+ 
  ***Click for:*** [**[CV]**](CV-ZZW20201119.pdf)
 
 School of Life Sciences, Division of Life Sciences and Medicine
