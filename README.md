@@ -1,10 +1,20 @@
- 
-***Click for:*** 
-[**[CV]**](CV-ZZW20201119.pdf)
+ ***Click for:*** [**[CV]**](CV-ZZW20201119.pdf)
+
+School of Life Sciences, Division of Life Sciences and Medicine
+<div align=left>
+ <img width="150" height="200" alt="zhongzhiwen" src="zzwustc.jpg"/>
+</div> 
+Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamics
 
 
 
-<img width="150" height="150" src="zzwustc.jpg"/>
+
+</table>
+
+<pre>
+Ministry of Education Key Laboratory for Membrane-less Organelles & Cellular Dynamics
+</pre>
+
 
 ### **Zhiwen Zhong**   
 ------------
@@ -139,4 +149,4 @@ Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Pen
 
 ------------
 
-*Last updated by Zhiwen Zhong on **Nov 19, 2020***
+<p align="right">*Last updated by Zhiwen Zhong on **Nov 19, 2020***</p>
