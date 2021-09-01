@@ -18,10 +18,10 @@ c) use the structural predictions to develop testable hypotheses for annotating 
 
 ### **Publications** (* indicates co-first auther)
 ------------
-Yanshen Zhang, **Zhiwen Zhong** *, Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode
+Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode
 Author links open overlay panel. ***Neurochemistry International*** https://doi.org/10.1016/j.neuint.2021.105152
 
-Xiang Fu, **Zhiwen Zhong** *, Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c https://pubs.rsc.org/en/content/articlelanding/2018/FO/C8FO00477C#!divRelatedContent&articles
+Xiang Fu, **Zhiwen Zhong***, Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c https://pubs.rsc.org/en/content/articlelanding/2018/FO/C8FO00477C#!divRelatedContent&articles
 
 ### **Reseach Experiences** 
 ------------
