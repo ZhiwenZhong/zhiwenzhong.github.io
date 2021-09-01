@@ -3,7 +3,7 @@
 ### **Biography** 
 ------------
 I am currently a first year phD candidate student in the Department of Chemistry, King's College London (KCL), supervised by Dr Argyris Politis and Pfro 
-Ismael Diez Perez. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC), which my tutor is Prof Chao Wang. And I also have a Bachelor degree in Biotechnology at Anhui University, under the supervision of Prof. Bei Huang.
+Ismael Diez Perez. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC), which my tutor was Prof Chao Wang. And I also have a Bachelor degree in Biotechnology at Anhui University, under the supervision of Prof Bei Huang.
 
 ### **Research Interest** 
 
