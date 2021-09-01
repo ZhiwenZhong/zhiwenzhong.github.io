@@ -66,5 +66,5 @@ Xiang Fu, **Zhiwen Zhong** *, Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Fen
 
 ------------
 
-<p align="right">*Last updated by Zhiwen Zhong on **Nov 19, 2020***</p>
+<p align="right">*Last updated by Zhiwen Zhong on Sep 2, 2021</p>
 
