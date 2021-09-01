@@ -2,25 +2,37 @@
 
 ### **Biography** 
 ------------
-I am currently a final year (2019-2020) graduate student at the School of Life Sciences, University of Science and Technology of China(USTC), supervised by Prof. Chao Wang and Prof. Mingjie Zhang. Previously, I received a B.S. degree in Biotechnology from Anhui University in 2017, under the supervision of Prof. Bei Huang.
+I am currently a first year phD candidate student in the Department of Chemistry, King's College London (KCL), supervised by Dr Argyris Politis and Pfro 
+Ismael Diez Perez. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC), which my tutor is Prof Chao Wang. And I also have a Bachelor degree in Biotechnology at Anhui University, under the supervision of Prof. Bei Huang.
 
 ### **Research Interest** 
 
-With a strong desire to upgrade my knowledge and skills, I am applying for the PhD programme in UK. I hope to use structural biology and bioinformatics to answer questions like neurodegenerative disorder or other genetic diseases, with the help of deep learning we are able to simulate protein-protein interactions and mutate binding sites to see how cells are affected. The traditional method knocks down a particular gene in mice to observe the phenotype. However, I feel that this method has room for improvement because knockdown mice may self-regulate themselves, thus possibly invalidating the research findings. The reason for this may be if one protein was knocked down, changes may happen via other routes, meaning that the difference may not be solely due to that one protein. To further explore this paradox, I hope to model this “Protein-Net” using computer simulations. By precisely controlling certain variables, we may draw a more solid conclusion of what roles of a particular protein play. 
+I am interested in developing and applying computational and experimental methods to study the structure and function of protein assemblies. Specifically, they aim to:
+
+a) develop hybrid structural biology methods to predict the structure of large protein complexes,
+
+b) perform mass spectrometry based experiments to generate structural restraints for capturing the flexibility and assembly pathways of transient complexes,
+
+c) use the structural predictions to develop testable hypotheses for annotating the functions of biologically important proteins such as membrane embedded proteins and those involved in cell cycle.
 
 
 ### **Publications** (* indicates co-first auther)
 ------------
-Jin Ye, **Zhiwen Zhong** (Co-first author), Yanshen Zhang and Chao Wang. Crystal structure of MAGI2-PDZ4/ARMS-PBM complex reveals a canonical PDZ/PBM interaction. ***Journal of   Structural Biology*** (Under reviewing)
+Yanshen Zhang, **Zhiwen Zhong** *, Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode
+Author links open overlay panel. ***Neurochemistry International*** https://doi.org/10.1016/j.neuint.2021.105152
 
-Xiang Fu, **Zhiwen Zhong** (Co-first author), Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c
+Xiang Fu, **Zhiwen Zhong** *, Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c https://pubs.rsc.org/en/content/articlelanding/2018/FO/C8FO00477C#!divRelatedContent&articles
 
 ### **Reseach Experiences** 
 ------------
 **[10/2020] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex**
+
 **[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
+
 **[01/2019] TRIM46 and HCFC2 Co-localized in the AIS with Ankyrin-G in Hippocampus**
+
 **[04/2018] Use Yeast Two-hybrid to Screen Protein that Can Bind with TRIM46**
+
 **[06/2017]  The Protective Effects of Selenium-Enriched Spirulina Platensis on Chronic Alcohol-Induced Liver Injury in Mice**
 
 ### **Selected Honors and Awards**
