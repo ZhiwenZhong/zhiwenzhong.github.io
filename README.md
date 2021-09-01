@@ -33,7 +33,7 @@ Xiang Fu, **Zhiwen Zhong** *, Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Fen
 
 **[04/2018] Use Yeast Two-hybrid to Screen Protein that Can Bind with TRIM46**
 
-**[06/2017]  The Protective Effects of Selenium-Enriched Spirulina Platensis on Chronic Alcohol-Induced Liver Injury in Mice**
+**[06/2017] The Protective Effects of Selenium-Enriched Spirulina Platensis on Chronic Alcohol-Induced Liver Injury in Mice**
 
 ### **Selected Honors and Awards**
 ------------
