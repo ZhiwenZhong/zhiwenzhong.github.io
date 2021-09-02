@@ -1,4 +1,5 @@
-<div align=center><img width="1000" height="320" alt="zhongzhiwen" src="test.jpg"/></div>
+
+![](20210902.jpg)
 
 ### **Biography** 
 ------------
@@ -19,21 +20,24 @@ c) use the structural predictions to develop testable hypotheses for annotating 
 ### **Publications** (* indicates co-first auther)
 ------------
 Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode
-Author links open overlay panel. ***Neurochemistry International*** https://doi.org/10.1016/j.neuint.2021.105152
+Author links open overlay panel. ***Neurochemistry International*** 2021 DOI(https://www.sciencedirect.com/science/article/pii/S0197018621001984)
 
-Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c https://pubs.rsc.org/en/content/articlelanding/2018/FO/C8FO00477C#!divRelatedContent&articles
+<div align=center><img width="600" height="200" alt="zhongzhiwen" src="article2.jpg"/></div>
+
+Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c(https://pubs.rsc.org/en/content/articlelanding/2018/FO/C8FO00477C#!divRelatedContent&articles)
+<div align=center><img width="600" height="180" alt="zhongzhiwen" src="article1.png"/></div>
 
 ### **Reseach Experiences** 
 ------------
-**[10/2020] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex**
+[10/2020] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex
 
-**[07/2019] Crystal Structure of HCFC2 Fn3 Domain**
+[07/2019] Crystal Structure of HCFC2 Fn3 Domain
 
-**[01/2019] TRIM46 and HCFC2 Co-localized in the AIS with Ankyrin-G in Hippocampus**
+[01/2019] TRIM46 and HCFC2 Co-localized in the AIS with Ankyrin-G in Hippocampus
 
-**[04/2018] Use Yeast Two-hybrid to Screen Protein that Can Bind with TRIM46**
+[04/2018] Use Yeast Two-hybrid to Screen Protein that Can Bind with TRIM46
 
-**[06/2017] The Protective Effects of Selenium-Enriched Spirulina Platensis on Chronic Alcohol-Induced Liver Injury in Mice**
+[06/2017] The Protective Effects of Selenium-Enriched Spirulina Platensis on Chronic Alcohol-Induced Liver Injury in Mice
 
 ### **Selected Honors and Awards**
 ------------
