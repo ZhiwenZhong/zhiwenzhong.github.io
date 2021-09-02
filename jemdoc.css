@@ -143,6 +143,8 @@ h1, h2, h3 {
 	line-height: 1.0;
 	padding-top: 0.5em;
 	border-bottom: 1px solid #aaaaaa;
+	color: #F86C4F;
+	font-family: "Times New Roman"
 }
 
 h1 {
