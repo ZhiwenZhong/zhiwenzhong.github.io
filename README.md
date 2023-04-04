@@ -1,5 +1,5 @@
 
-![](zhiwen_github.eps)
+![](github-readme.jpg)
 
 ### **Biography** 
 ------------
