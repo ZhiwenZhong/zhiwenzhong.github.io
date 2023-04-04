@@ -30,7 +30,7 @@ Skills: X-Ray Crystallography, Protein Purification, Cell Line Culture, HDX-MS
 ------------
 [04/2022] Atomic Detailed Understanding of TREM2 and DAP12 Transmembrane Domain Gives Insights toAlzheimer’s Disease Drug Discovery
 
-[10/2021] Dynamics changes of XylE using HDX-MS
+[10/2021] Dynamics Changes of XylE using HDX-MS
 
 [10/2020] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex
 
