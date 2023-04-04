@@ -3,7 +3,7 @@
 
 ### **Biography** 
 ------------
-I am currently a second year phD candidate student in the Department of Chemistry/Physics, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC), which my tutor was Prof. Chao Wang. 
+I am currently a second year PhD student in the Department of Chemistry/Physics, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC), which my tutor was Prof. Chao Wang. 
 
 ### **Research Interest** 
 
@@ -28,7 +28,7 @@ Purification, Cell Line Culture, HDX-MS
 
 ### **Reseach Experiences** 
 ------------
-[04/2022] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex
+[04/2022] Atomic Detailed Understanding of TREM2 and DAP12 Transmembrane Domain Gives Insights toAlzheimer’s Disease Drug Discovery
 
 [10/2021] Dynamics changes of XylE using HDX-MS
 
