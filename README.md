@@ -3,32 +3,35 @@
 
 ### **Biography** 
 ------------
-I am currently a first year phD candidate student in the Department of Chemistry, King's College London (KCL), supervised by Dr Argyris Politis and Pfro 
-Ismael Diez Perez. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC), which my tutor was Prof Chao Wang. And I also have a Bachelor degree in Biotechnology at Anhui University, under the supervision of Prof Bei Huang.
+I am currently a second year phD candidate student in the Department of Chemistry/Physics, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC), which my tutor was Prof. Chao Wang. 
 
 ### **Research Interest** 
 
-I am interested in developing and applying computational and experimental methods to study the structure and function of protein assemblies. Specifically, they aim to:
-
-a) develop hybrid structural biology methods to predict the structure of large protein complexes,
-
-b) perform mass spectrometry based experiments to generate structural restraints for capturing the flexibility and assembly pathways of transient complexes,
-
-c) use the structural predictions to develop testable hypotheses for annotating the functions of biologically important proteins such as membrane embedded proteins and those involved in cell cycle.
-
+I am currently focused on constructing intricate protein-protein interaction models at the atomic level using molecular dynamics simulations. This approach will help clarify the molecular mechanisms that underpin protein complex formation, resulting in a thorough comprehension of these significant biological processes. Additionally, the models I create are expected to have valuable implications for drug discovery
 
 ### **Publications** (* indicates co-first auther)
 ------------
 Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode
-Author links open overlay panel. ***Neurochemistry International*** 2021 DOI(https://www.sciencedirect.com/science/article/pii/S0197018621001984)
+Author links open overlay panel. ***Neurochemistry International*** 2021
 
 <div align=center><img width="600" height="200" alt="zhongzhiwen" src="article2.jpg"/></div>
 
-Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 DOI: 10.1039/c8fo00477c(https://pubs.rsc.org/en/content/articlelanding/2018/FO/C8FO00477C#!divRelatedContent&articles)
+Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018
 <div align=center><img width="600" height="180" alt="zhongzhiwen" src="article1.png"/></div>
+
+
+### **Abilities & skills** 
+------------
+Software/Packages: Gromacs, MDAnalysis, PyMOL, SPSS, GraphPad Prism 5, VMD, PLGS, DynamX Experimental Skills: X-Ray Crystallography, Protein
+
+Purification, Cell Line Culture, HDX-MS
 
 ### **Reseach Experiences** 
 ------------
+[04/2022] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex
+
+[10/2021] Dynamics changes of XylE using HDX-MS
+
 [10/2020] Crystal Structure of MAGI2-PDZ4/ARMS-PBM Complex
 
 [07/2019] Crystal Structure of HCFC2 Fn3 Domain
@@ -41,13 +44,10 @@ Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Fen
 
 ### **Selected Honors and Awards**
 ------------
-[9/2019] Academic Scholarship, University of science and technology of China
 
-[9/2018] Academic Scholarship, University of science and technology of China
-
-[9/2017] Academic Scholarship, University of science and technology of China 
-
-[12/2015] Outstanding scholarship of Anhui University
+[2021-2025] King’s College London - China Scholarship Council (4 years)
+[2017-2019] Academic Scholarship, University of Science and Technology of China (3 years)
+[2014-2015] Outstanding Scholarship of Anhui University
 
 ### **Coursera Certificates**
 ------------
@@ -62,13 +62,13 @@ Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Fen
 
 ### **Extracurricular Activities**
 ------------
-[11/2015] **Leader**, Hefei Botanical Garden Nameplate Activity
+[04/2021-07/2021] **Researcher**, Hankebio Drug Discovery Company Internship
 
-[11/2015] **Project Leader**, Anhui Province Entrepreneurship Simulation Training
+[2014-2017] **Project Leader**, Anhui Province Entrepreneurship Simulation Training
 
-[07/2015] **Minister**, the publicity department of Baidu Encyclopedia Club, Anhui University
+[2014-2015] **Minister**, Baidu Encyclopedia Club, Anhui University
 
 ------------
 
-<p align="right">*Last updated by Zhiwen Zhong on Sep 2, 2021</p>
+<p align="right">*Last updated by Zhiwen Zhong on April 4, 2023</p>
 
