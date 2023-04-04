@@ -11,12 +11,12 @@ I am currently focused on constructing intricate protein-protein interaction mod
 
 ### **Publications** (* indicates co-first auther)
 ------------
-Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode
-Author links open overlay panel. ***Neurochemistry International*** 2021
+Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode ***Neurochemistry International*** 2021
 
 <div align=center><img width="600" height="200" alt="zhongzhiwen" src="article2.jpg"/></div>
 
 Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang, The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018
+
 <div align=center><img width="600" height="180" alt="zhongzhiwen" src="article1.png"/></div>
 
 
