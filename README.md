@@ -20,7 +20,7 @@ Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Fen
 <div align=center><img width="600" height="180" alt="zhongzhiwen" src="article1.png"/></div>
 
 
-### **Abilities & skills** 
+### **Abilities & Skills** 
 ------------
 Software/Packages: Gromacs, MDAnalysis, PyMOL, SPSS, GraphPad Prism 5, VMD, PLGS, DynamX Experimental 
 
