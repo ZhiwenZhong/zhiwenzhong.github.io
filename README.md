@@ -7,7 +7,7 @@ I am currently a second year PhD student in the Department of Chemistry/Physics,
 
 ### **Research Interest** 
 
-I am currently focused on constructing intricate protein-protein interaction models at the atomic level using molecular dynamics simulations. This approach will help clarify the molecular mechanisms that underpin protein complex formation, resulting in a thorough comprehension of these significant biological processes. Additionally, the models I create are expected to have valuable implications for drug discovery
+I am currently focused on constructing intricate protein-protein interaction models at the atomic level using molecular dynamics simulations. This approach will help clarify the molecular mechanisms that underpin protein complex formation, resulting in a thorough comprehension of these significant biological processes. Additionally, the models I create are expected to have valuable implications for drug discovery.
 
 ### **Publications** (* indicates co-first auther)
 ------------
