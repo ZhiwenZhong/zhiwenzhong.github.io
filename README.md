@@ -64,9 +64,9 @@ Experimental Skills: X-Ray Crystallography, Protein Purification, Cell Line Cult
 
 ### **Extracurricular Activities**
 ------------
-[04/2021-07/2021] **Researcher**, Hankebio Drug Discovery Company Internship
+[04/2021-07/2021] **Researcher**, Hankebio Drug Discovery Company Internship, Hefei
 
-[2014-2017] **Project Leader**, Anhui Province Entrepreneurship Simulation Training
+[2014-2017] **Project Leader**, National Training Program of Innovation and Entrepreneurship for Undergraduates, Anhui Province
 
 [2014-2015] **Minister**, Baidu Encyclopedia Club, Anhui University
 
