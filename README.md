@@ -3,7 +3,7 @@
 
 ### **Biography** 
 ------------
-I am currently a second year PhD student in the Department of Chemistry/Physics, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC). 
+I am currently a second year PhD student in the Department of Physics/Chemistry, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I have received a Master degree in Biochemistry and Molecular Biology at University of Science and Technology of China (USTC). 
 
 ### **Research Interest** 
 
