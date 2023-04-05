@@ -47,7 +47,7 @@ Experimental Skills: X-Ray Crystallography, Protein Purification, Cell Line Cult
 
 [2021-2025] King’s College London - China Scholarship Council (4 years)
 
-[2017-2019] Academic Scholarship, University of Science and Technology of China (3 years)
+[2017-2020] Academic Scholarship, University of Science and Technology of China (3 years)
 
 [2014-2015] Outstanding Scholarship of Anhui University
 
