@@ -72,5 +72,5 @@ Experimental Skills: X-Ray Crystallography, Protein Purification, Cell Line Cult
 
 ------------
 
-<p align="right">*Last updated by Zhiwen Zhong on April 4, 2023</p>
+<p align="right">*Last updated by Zhiwen Zhong on 10 August, 2023</p>
 
