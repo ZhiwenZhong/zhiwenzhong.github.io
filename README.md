@@ -1,5 +1,5 @@
 
-![](zhiwen_github_02.png)
+![](zhiwen_github.jpg)
 
 ### **Biography** 
 ------------
