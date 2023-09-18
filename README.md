@@ -3,7 +3,7 @@
 
 ### **Biography** 
 ------------
-I am currently a second-year PhD student in the Department of Physics/Physics, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I received a Master's degree in Biochemistry and Molecular Biology at the University of Science and Technology of China (USTC). 
+I am a third-year PhD student in the Department of Physics/Chemistry, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I received a Master's degree in Biochemistry and Molecular Biology at the University of Science and Technology of China (USTC) and a Bachelor's degree from Anhui University.
 
 ### **Research Interest** 
 
@@ -22,7 +22,7 @@ Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Fen
 
 ### **Abilities & Skills** 
 ------------
-Software/Packages: Gromacs, MDAnalysis, PyMOL, SPSS, GraphPad Prism 5, VMD, PLGS, DynamX 
+Software/Packages: Gromacs, MDAnalysis, PyMOL, SPSS, VMD, PLGS, DynamX, Matplotlib, Pandas 
 
 Experimental Skills: X-Ray Crystallography, Protein Purification, Cell Line Culture, HDX-MS
 
@@ -72,5 +72,5 @@ Experimental Skills: X-Ray Crystallography, Protein Purification, Cell Line Cult
 
 ------------
 
-<p align="right">*Last updated by Zhiwen Zhong on 10 August, 2023</p>
+<p align="right">*Last updated by Zhiwen Zhong on 18 Sep, 2023</p>
 
