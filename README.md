@@ -24,7 +24,7 @@ Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Fen
 ------------
 Software/Packages: Gromacs, MDAnalysis, PyMOL, SPSS, VMD, PLGS, DynamX, Matplotlib, Pandas 
 
-Experimental Skills: X-Ray Crystallography, Protein Purification, Cell Line Culture, HDX-MS
+Experimental Skills: X-ray Crystallography, Protein Purification, Cell Line Culture, Confocal Microscopy, Hydrogen-Deuterium Exchange Mass Spectrometry
 
 ### **Reseach Experiences** 
 ------------
