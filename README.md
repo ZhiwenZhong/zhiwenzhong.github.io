@@ -12,7 +12,7 @@ I am currently focused on constructing intricate protein-protein interaction mod
 ### **Publications** (* indicates co-first auther)
 ------------
 
-Zhiwen Zhong, Martin B. Ulmschneider, and Christian D. Lorenz. Unraveling the Molecular Dance: Insights into TREM2/DAP12 Complex Formation in Alzheimer’s Disease through Molecular Dynamics ***ACS OMEGA*** 2024
+Zhiwen Zhong, Martin B. Ulmschneider, and Christian D. Lorenz. Unraveling the Molecular Dance: Insights into TREM2/DAP12 Complex Formation in Alzheimer’s Disease through Molecular Dynamics ***ACS OMEGA*** 2024 [DOI:10.1021](https://pubs.acs.org/doi/10.1021/acsomega.4c03060)
 
 <div align=center><img width="600" height="500" alt="zhongzhiwen" src="project_03.jpg"/></div>
 
