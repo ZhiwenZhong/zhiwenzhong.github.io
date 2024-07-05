@@ -14,9 +14,9 @@ I am currently focused on constructing intricate protein-protein interaction mod
 
 Zhiwen Zhong, Martin B. Ulmschneider, and Christian D. Lorenz. Unraveling the Molecular Dance: Insights into TREM2/DAP12 Complex Formation in Alzheimer’s Disease through Molecular Dynamics ***ACS OMEGA*** 2024 [DOI:10.1021](https://pubs.acs.org/doi/10.1021/acsomega.4c03060)
 
-<div align=center><img width="600" height="500" alt="zhongzhiwen" src="project_03.jpg"/></div>
+<div align=center><img width="300" height="250" alt="zhongzhiwen" src="project_03.jpg"/></div>
 
-Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode ***Neurochemistry International*** 2021
+Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode ***Neurochemistry International*** 2021 [https://doi.org/10.1016/j.neuint.2021.105152](https://www.sciencedirect.com/science/article/abs/pii/S0197018621001984)
 
 <div align=center><img width="600" height="200" alt="zhongzhiwen" src="article2.jpg"/></div>
 
