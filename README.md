@@ -16,11 +16,12 @@ Zhiwen Zhong, Martin B. Ulmschneider, and Christian D. Lorenz. Unraveling the Mo
 
 <div align=center><img width="300" height="250" alt="zhongzhiwen" src="project_03.jpg"/></div>
 
-Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode ***Neurochemistry International*** 2021 [https://doi.org/10.1016/j.neuint.2021.105152](https://www.sciencedirect.com/science/article/abs/pii/S0197018621001984)
+Yanshen Zhang, **Zhiwen Zhong*** , Jin Ye and Chao Wang. Crystal structure of the PDZ4 domain of MAGI2 in complex with PBM of ARMS reveals a canonical PDZ recognition mode ***Neurochemistry International*** 2021 [DOI:10.1016](https://www.sciencedirect.com/science/article/abs/pii/S0197018621001984)
 
 <div align=center><img width="600" height="200" alt="zhongzhiwen" src="article2.jpg"/></div>
 
-Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang. The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018
+Xiang Fu, **Zhiwen Zhong*** , Feng Hu, Yi Zhang, Chunxia Li, Peng Yan, Lixue Feng, Jinglian Shen, Bei Huang. The protective effects of selenium-enriched Spirulina Platensis on chronic alcohol-induced liver injury in mice. ***Food & function*** 2018 [DOI](https://pubs.rsc.org/en/content/articlelanding/2018/fo/c8fo00477c/unauth)
+
 
 <div align=center><img width="600" height="180" alt="zhongzhiwen" src="article1.png"/></div>
 
