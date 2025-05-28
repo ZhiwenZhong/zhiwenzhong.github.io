@@ -3,11 +3,12 @@
 
 ### **Biography** 
 ------------
-I am a final PhD student in the Department of Physics/Chemistry, King's College London (KCL), supervised by Prof. Chris Lorenz and Pfro. Martin Ulmschneider. Before that, I received a Master's degree in Biochemistry and Molecular Biology at the University of Science and Technology of China (USTC).
+I am a final-year PhD student in the Department of Physics at King’s College London, under the supervision of Prof. Chris Lorenz and Prof. Martin Ulmschneider. Prior to this, I earned a Master’s degree in Biochemistry and Molecular Biology from the University of Science and Technology of China (USTC).
 
 ### **Research Interest** 
+------------
+I am broadly interested in the computational study of protein structure, dynamics, and function, particularly using molecular dynamics (MD) simulations, machine learning, and structural bioinformatics. I am excited about contributing to interdisciplinary projects that combine atomistic simulations with machine learning to address challenges in biocatalysis, pharmaceutical design, and functional annotation.
 
-I am currently focused on constructing intricate protein-protein interaction models at the atomic level using molecular dynamics simulations. This approach will help clarify the molecular mechanisms that underpin protein complex formation, resulting in a thorough comprehension of these significant biological processes. Additionally, the models I create are expected to have valuable implications for drug discovery.
 
 ### **Publications** (* indicates co-first auther)
 ------------
